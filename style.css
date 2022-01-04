@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+ padding-left: 2%;
+    
+   
+}
+.half-width img{
+  width: 100%;
+    
+    
+   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top{
+   
+    background-image:url(img/do-advance-photo-manipulation.jpg);
+     background-repeat: no-repeat;
+  
+   
+}
