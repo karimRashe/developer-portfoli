@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 h1{
     font-size: 50px;
@@ -13,12 +14,14 @@ section{
 }
 .half-width{
     width: 60%;
- padding-left: 2%;
-    
-   
+    padding-left:  2%;
+    padding-right: 2%;
+    margin-left: 2%;
+    margin-top: 5%;
+
 }
 .half-width img{
-  width: 100%;
+  width: 70%;
     
     
    
@@ -31,10 +34,6 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 }
-.top{
-   
-    background-image:url(img/do-advance-photo-manipulation.jpg);
-     background-repeat: no-repeat;
-  
-   
-}
+.top {
+
+    background-image: linear-gradient(orange, black);
